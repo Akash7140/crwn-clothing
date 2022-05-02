@@ -1,7 +1,5 @@
 import React from "react";
 import { Route } from 'react-router-dom';
-import { connect } from "react-redux";
-import { selectCollection } from "../../redux/shop/shop.selectors";
 
 import CollectionsOverview from '../../components/collections-overview/collections-overview.component';
 
